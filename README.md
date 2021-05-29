@@ -22,7 +22,7 @@
 <!-- 📦 [npm][npm] **|** --> 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] **|**
-<i class="fab fa-researchgate"></i> [Researchgate] [researchgate] **|**
+![image](https://user-images.githubusercontent.com/52417034/120080479-5f270a00-c076-11eb-8d19-07eb5079e5ca.png) [Researchgate] [researchgate] **|**
 
 [INL]: https://inl.gov/
 [RAVEN]: https://github.com/idaholab/raven/wiki
