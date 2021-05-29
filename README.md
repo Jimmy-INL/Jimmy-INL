@@ -39,19 +39,17 @@
 ## Skills: 
 <br />
 
-* 🤖👽 **Machine Learning:** regression, regularization, classification, clustering, collaborative filtering, support vector machines, naive Bayes, decision trees, random forests, anomaly detection, recommender systems, artificial data synthesis, ceiling analysis, Artificial Neural Networks (ANNs), Deep Neural Networks (DNNs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short Term Memory (LSTMs), Natural Language Processing (NLP), Transformer models, Attention Mechanisms.
+- 🤖👽 **Machine Learning:** regression, regularization, classification, clustering, collaborative filtering, support vector machines, naive Bayes, decision trees, random forests, anomaly detection, recommender systems, artificial data synthesis, ceiling analysis, Artificial Neural Networks (ANNs), Deep Neural Networks (DNNs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short Term Memory (LSTMs), Natural Language Processing (NLP), Transformer models, Attention Mechanisms.
 
-* **Reduced Order Modeling:** PCA, PPCA, KPCA, isomap, laplacian eigenmaps, LLE, HLLE, LTSA, surrogate modeling, Koopman theory, time-delayed embeddings, dynamic mode decomposition (DMD), Koopman theory, dynamical systems and control, data-driven (equation-free) modeling, sparse identification of dynamical systems (Sindy), compressive sensing for full map recovery from sparse measurements, time-series analysis, ARMA, ARIMA.
+- **Reduced Order Modeling:** PCA, PPCA, KPCA, isomap, laplacian eigenmaps, LLE, HLLE, LTSA, surrogate modeling, Koopman theory, time-delayed embeddings, dynamic mode decomposition (DMD), Koopman theory, dynamical systems and control, data-driven (equation-free) modeling, sparse identification of dynamical systems (Sindy), compressive sensing for full map recovery from sparse measurements, time-series analysis, ARMA, ARIMA.
 
-* **Sensitivity Analysis (SA):** Sobol indices, morris screenning, PAWN, moment-independent SA.
+- **Sensitivity Analysis (SA):** Sobol indices, morris screenning, PAWN, moment-independent SA.
 
-* **Uncertainty Quantification (UQ):** Forward UQ, adjoint UQ, invers UQ.
+- **Uncertainty Quantification (UQ):** Forward UQ, adjoint UQ, invers UQ.
 
-* **Optimization:** Gradient-Based Optimizers, conjugate gradient, Metaheuristic: Simulated Annealing, Genetic Algorithms.
+- **Optimization:** Gradient-Based Optimizers, conjugate gradient, Metaheuristic: Simulated Annealing, Genetic Algorithms.
 
-* 🖥️ **Programming Languages and Packages:** Bash scripting, MATLAB, Python: numpy, scipy, matplotlib, plotly, bokeh, seaborn, pandas, Jupyter notebook, ScikitLearn, Keras, Tensorflow. **-High Performance Computing (HPC)**
-
-<br />
+- 🖥️ **Programming Languages and Packages:** Bash scripting, MATLAB, Python: numpy, scipy, matplotlib, plotly, bokeh, seaborn, pandas, Jupyter notebook, ScikitLearn, Keras, Tensorflow. **-High Performance Computing (HPC)**
 
 ### Tools:
 
@@ -65,7 +63,7 @@
 
 
 <br />
-<br /> 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jimmy-INL)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-INL)](https://github.com/anuraghazra/github-readme-stats)
