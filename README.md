@@ -16,12 +16,12 @@
 - ⚡ Fun fact: I like basketball, volleyball, and soccer.
 
 - 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
+- 🐦 [twitter][twitter] **|** 
+- 📺 [youtube][youtube] **|** 
 <!-- 🎥 [twitch][twitch] **|** --> 
 <!-- 📦 [npm][npm] **|** --> 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin] **|**
+- 📷 [instagram][instagram] **|** 
+- 👔 [linkedin][linkedin] **|**
 [Researchgate] [researchgate] **|**
 
 [INL]: https://inl.gov/
