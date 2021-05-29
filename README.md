@@ -46,7 +46,7 @@
 p {
  text-align:center
 }
-</style>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jimmy-INL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-abdo-a7625082//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mohammadgabdo.wixsite.com/mysite)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Mohammad-Abdo)  
 
@@ -68,3 +68,4 @@ p {
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy-INL&hide=contribs,prs)
+</style>
