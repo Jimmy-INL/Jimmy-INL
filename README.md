@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Physics-based neural networks.
 <!-- -🤔 I’m looking for help with ... -->
 - 💬 Ask me about ROM, uncertainty quantification, sensitivity analysis, active subspaces, probabilistic error bounds, dynamic mode decomposition (DMD).
-- 📫 How to reach me: mgabdo@ncsu.edu, https://www.linkedin.com/in/mohammad-abdo-a7625082/, https://www.researchgate.net/profile/Mohammad-Abdo.
+<!-- - 📫 How to reach me: mgabdo@ncsu.edu, https://www.linkedin.com/in/mohammad-abdo-a7625082/, https://www.researchgate.net/profile/Mohammad-Abdo. -->
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I like basketball, volleyball, and soccer.
 
@@ -16,9 +16,10 @@
 [researchgate] **|**
 - 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|**
 <!-- 🎥 [twitch][twitch] **|** --> 
 <!-- 📦 [npm][npm] **|** --> 
-📷 [instagram][instagram] **|** 
+ 
 
 [INL]: https://inl.gov/
 [RAVEN]: https://github.com/idaholab/raven/wiki
