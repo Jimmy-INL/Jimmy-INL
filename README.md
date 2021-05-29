@@ -21,7 +21,8 @@
 <!-- 🎥 [twitch][twitch] **|** --> 
 <!-- 📦 [npm][npm] **|** --> 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|**
+<i class="fab fa-researchgate"></i> [Researchgate] [researchgate] **|**
 
 [INL]: https://inl.gov/
 [RAVEN]: https://github.com/idaholab/raven/wiki
