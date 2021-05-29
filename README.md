@@ -50,7 +50,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-INL)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy-INL&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy-INL&show_icons=true&count_private=true&theme=radical)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jimmy-INL)  
 
@@ -59,6 +59,3 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jimmy-INL)  
 
 ![Profile views](https://gpvc.arturio.dev/Jimmy-INL)  
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy-INL&hide=contribs,prs)
