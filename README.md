@@ -30,4 +30,7 @@
 <!-- [twitter]: https://twitter.com/-->
 <!-- [youtube]: https://youtube.com/-->
 [linkedin]: https://www.linkedin.com/in/mohammad-abdo-a7625082/
-[researchgate]: https://www.researchgate.net/profile/Mohammad-Abdo 
+[researchgate]: https://www.researchgate.net/profile/Mohammad-Abdo
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy-INL&hide=contribs,prs)
+
