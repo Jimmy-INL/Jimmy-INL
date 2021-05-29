@@ -42,10 +42,6 @@
 
 **- Programming Languages and Packages:** Bash scripting, MATLAB, Python: numpy, scipy, matplotlib, plotly, bokeh, seaborn, pandas, Jupyter notebook, ScikitLearn, Keras, Tensorflow. **-High Performance Computing (HPC)**
  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' align='center' >](https://github.com/Jimmy-INL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' align='center'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-abdo-a7625082//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40' align='center'>](https://www.researchgate.net/profile/Mohammad-Abdo) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' align='center'>](https://mohammadgabdo.wixsite.com/mysite)    
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jimmy-INL)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-INL)](https://github.com/anuraghazra/github-readme-stats)
@@ -58,4 +54,9 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jimmy-INL)  
 
-![Profile views](https://gpvc.arturio.dev/Jimmy-INL)  
+![Profile views](https://gpvc.arturio.dev/Jimmy-INL)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' align='center' >](https://github.com/Jimmy-INL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' align='center'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-abdo-a7625082//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40' align='center'>](https://www.researchgate.net/profile/Mohammad-Abdo) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' align='center'>](https://mohammadgabdo.wixsite.com/mysite)    
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
