@@ -3,6 +3,7 @@
 ### My honest friends and superiors agreed that my biggest weekness is software development, so that's what I picked as a part of my career :)
 <br />
 <!-- **Jimmy-INL/Jimmy-INL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 - 🔭 I’m currently a Modeling and simulation specialist, a machine learning staff scientist at Idaho National Laboratory, and a member of RAVEN development team, working on several projects including -but not limited to- Surrogate Construction, Reduced Order Modeling, sparse sensing, metamodeling of porous materials, scaling interpolation and representativity of mockup experiments to target real-world plants, data-driven discovery of governing physics and system identification, digital twins, Time series analysis, Koopman theory, agile software development, and more.
 
 - 🌱 I’d love to learn in the near future: MLOps, R, Cafee, mongoDB, MySQL,NoSQL, SCALA, Julia, SAS, SPSS, ApacheSpark, Kafka, Hadoop, Hive, MapReduce, Casandra, Weka.   
