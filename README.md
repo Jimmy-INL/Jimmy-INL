@@ -12,13 +12,13 @@
 - ⚡ Fun fact: I like basketball, volleyball, and soccer.
 
 - 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
+👔 [linkedin][linkedin] **|**
+[researchgate] **|**
+- 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 <!-- 🎥 [twitch][twitch] **|** --> 
 <!-- 📦 [npm][npm] **|** --> 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin] **|**
-[researchgate] **|**
 
 [INL]: https://inl.gov/
 [RAVEN]: https://github.com/idaholab/raven/wiki
