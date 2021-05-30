@@ -42,7 +42,6 @@
 
 ## Skills: 
 <br />
-
 - 🤖👽 **Machine Learning:** regression, regularization, classification, clustering, collaborative filtering, support vector machines, naive Bayes, decision trees, random forests, anomaly detection, recommender systems, artificial data synthesis, ceiling analysis, Artificial Neural Networks (ANNs), Deep Neural Networks (DNNs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short Term Memory (LSTMs), Natural Language Processing (NLP), Transformer models, Attention Mechanisms.
 
 - **Reduced Order Modeling:** PCA, PPCA, KPCA, isomap, laplacian eigenmaps, LLE, HLLE, LTSA, surrogate modeling, Koopman theory, time-delayed embeddings, dynamic mode decomposition (DMD), Koopman theory, dynamical systems and control, data-driven (equation-free) modeling, sparse identification of dynamical systems (Sindy), compressive sensing for full map recovery from sparse measurements, time-series analysis, ARMA, ARIMA.
@@ -68,12 +67,12 @@
 [<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][webdevplaylist]
 [<img align="left" alt="Keras" width="26px" src="https://raw.githubusercontent.com/github/explore/cf9a84017e3cdd93aeb635d9b85379ba67d62031/topics/keras/keras.png" />][webdevplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+<!-- [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist] -->
 <br />
 <br />
 
