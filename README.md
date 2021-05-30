@@ -56,7 +56,7 @@
 - 🖥️ **Programming Languages and Packages:** Bash scripting, MATLAB, Python: numpy, scipy, matplotlib, plotly, bokeh, seaborn, pandas, Jupyter notebook, ScikitLearn, Keras, Tensorflow. **-High Performance Computing (HPC)**
 
 ## Tools:
-<br />
+<!-- <br /> -->
 <!-- <br /> -->
 
 
