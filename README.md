@@ -42,6 +42,7 @@
 
 ## Skills: 
 <br />
+
 - 🤖👽 **Machine Learning:** regression, regularization, classification, clustering, collaborative filtering, support vector machines, naive Bayes, decision trees, random forests, anomaly detection, recommender systems, artificial data synthesis, ceiling analysis, Artificial Neural Networks (ANNs), Deep Neural Networks (DNNs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short Term Memory (LSTMs), Natural Language Processing (NLP), Transformer models, Attention Mechanisms.
 
 - **Reduced Order Modeling:** PCA, PPCA, KPCA, isomap, laplacian eigenmaps, LLE, HLLE, LTSA, surrogate modeling, Koopman theory, time-delayed embeddings, dynamic mode decomposition (DMD), Koopman theory, dynamical systems and control, data-driven (equation-free) modeling, sparse identification of dynamical systems (Sindy), compressive sensing for full map recovery from sparse measurements, time-series analysis, ARMA, ARIMA.
@@ -55,9 +56,8 @@
 - 🖥️ **Programming Languages and Packages:** Bash scripting, MATLAB, Python: numpy, scipy, matplotlib, plotly, bokeh, seaborn, pandas, Jupyter notebook, ScikitLearn, Keras, Tensorflow. **-High Performance Computing (HPC)**
 
 ### Tools:
-<br />
 ![image](https://user-images.githubusercontent.com/52417034/120087409-e25f5480-c0a4-11eb-890f-4312acb362f7.png)
-<br />
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
