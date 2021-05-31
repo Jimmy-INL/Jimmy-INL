@@ -1,4 +1,4 @@
-### Hi there 👋, I am Mohammad Abdo - aka Jimmy 🇪🇬
+### Hi there 👋, I am Mohammad Abdo - aka Jimmy, I am originally from Egypt 🇪🇬
 ## I am a Ph.D., a research scientist, and used to be an instructor.
 ### My honest friends and superiors agreed that my biggest weekness is software development, so that's what I picked as a part of my career 😎 
 <br />
@@ -14,7 +14,7 @@
 - 💬 Ask me about ROM, uncertainty quantification, sensitivity analysis, active subspaces, probabilistic error bounds, dynamic mode decomposition (DMD).
 <!-- - 📫 How to reach me: mgabdo@ncsu.edu, https://www.linkedin.com/in/mohammad-abdo-a7625082/, https://www.researchgate.net/profile/Mohammad-Abdo. -->
 
-- 😄 Pronouns: he/his
+<!-- - 😄 Pronouns: he/his -->
 
 - ⚡ Fun fact: I like basketball, volleyball, and soccer.
 
