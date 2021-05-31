@@ -8,7 +8,7 @@
 
 - 🌱 I’d love to learn in the near future: MLOps, R, Cafee, mongoDB, MySQL,NoSQL, SCALA, Julia, SAS, SPSS, ApacheSpark, Kafka, Hadoop, Hive, MapReduce, Casandra, Weka.   
 
-- 👯 I’m looking to collaborate on Physics-based neural networks.
+- 🧑‍🤝‍🧑 I’m looking to collaborate on Physics-based neural networks.
 <!-- -🤔 I’m looking for help with ... -->
 
 - 💬 Ask me about ROM, uncertainty quantification, sensitivity analysis, active subspaces, probabilistic error bounds, dynamic mode decomposition (DMD).
