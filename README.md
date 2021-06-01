@@ -80,6 +80,12 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist] -->
 <br />
 <br />
+---
+<br />
+## Certificates
+- Machine Learning - Stanford|Online (https://www.coursera.org/account/accomplishments/verify/2RUNQ56UFM64)
+- Neural Networks and Deep Learning - DeepLearning.AI (https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q)
+- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - DeepLearning.AI (https://www.coursera.org/account/accomplishments/verify/E4X2ABP5QBX2)
 
 ---
 <br />
