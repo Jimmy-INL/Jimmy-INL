@@ -67,11 +67,11 @@
  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/numpy/numpy.png" alt="numpy" width="40" height="40"/> </a> 
  <a href="https://scipy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/ca48d4f3dcf844b0898b9e039b4d848dc7ec306d/topics/scipy/scipy.png" alt="scipy" width="40" height="40"/> </a>
- <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="80" height="40"/> </a>
- <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
- <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/> </a>
+ <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="100" height="40"/> </a>
+ <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="100" height="40"/> </a>
+ <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="100" height="40"/> </a>
 
- <a href="https://plotly.com/" target="_blank"> <img src="https://images.prismic.io/plotly-marketing-website/bd1f702a-b623-48ab-a459-3ee92a7499b4_logo-plotly.svg?auto=compress,format" alt="plotly" width="40" height="40"/> </a>
+ <a href="https://plotly.com/" target="_blank"> <img src="https://images.prismic.io/plotly-marketing-website/bd1f702a-b623-48ab-a459-3ee92a7499b4_logo-plotly.svg?auto=compress,format" alt="plotly" width="100" height="40"/> </a>
 <a href="https://bokeh.org/" target="_blank"> <img src="https://static.bokeh.org/logos/logotype.svg" alt="bokeh" width="40" height="40"/> </a>
  <a href="https://www.altair.com/" target="_blank"> <img src="https://www.altair.com/images/icons/Altair.svg" alt="altair" width="40" height="40"/> </a>
 <a href="https://bokeh.org/" target="_blank"> <img src="https://static.bokeh.org/logos/logotype.svg" alt="bokeh" width="40" height="40"/> </a>
