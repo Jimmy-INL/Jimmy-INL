@@ -72,9 +72,8 @@
  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="100" height="40"/> </a>
 
  <a href="https://plotly.com/" target="_blank"> <img src="https://images.prismic.io/plotly-marketing-website/bd1f702a-b623-48ab-a459-3ee92a7499b4_logo-plotly.svg?auto=compress,format" alt="plotly" width="100" height="40"/> </a>
-<a href="https://bokeh.org/" target="_blank"> <img src="https://static.bokeh.org/logos/logotype.svg" alt="bokeh" width="40" height="40"/> </a>
- <a href="https://www.altair.com/" target="_blank"> <img src="https://www.altair.com/images/icons/Altair.svg" alt="altair" width="40" height="40"/> </a>
-<a href="https://bokeh.org/" target="_blank"> <img src="https://static.bokeh.org/logos/logotype.svg" alt="bokeh" width="40" height="40"/> </a>
+<a href="https://bokeh.org/" target="_blank"> <img src="https://static.bokeh.org/logos/logotype.svg" alt="bokeh" width="100" height="40"/> </a>
+ <a href="https://www.altair.com/" target="_blank"> <img src="https://www.altair.com/images/icons/Altair.svg" alt="altair" width="100" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://keras.io/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/cf9a84017e3cdd93aeb635d9b85379ba67d62031/topics/keras/keras.png" alt="keras" width="40" height="40"/> </a>
