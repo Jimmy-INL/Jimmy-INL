@@ -81,7 +81,9 @@
 <br />
 
 
+
 ## Certificates
+
 
 <br />
 
@@ -89,9 +91,9 @@
 - Neural Networks and Deep Learning - DeepLearning.AI (https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q)
 - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - DeepLearning.AI (https://www.coursera.org/account/accomplishments/verify/E4X2ABP5QBX2)
 
-<!-- ---
+---
 <br />
- -->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jimmy-INL)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-INL)](https://github.com/anuraghazra/github-readme-stats)
