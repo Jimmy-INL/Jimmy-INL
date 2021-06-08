@@ -67,7 +67,7 @@
  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/numpy/numpy.png" alt="numpy" width="40" height="40"/> </a> 
  <a href="https://scipy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/ca48d4f3dcf844b0898b9e039b4d848dc7ec306d/topics/scipy/scipy.png" alt="scipy" width="40" height="40"/> </a>
- <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="80" height="80"/> </a>
+ <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="80"/> </a>
  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/> </a>
 
