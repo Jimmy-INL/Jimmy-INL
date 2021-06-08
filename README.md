@@ -66,7 +66,10 @@
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40"/> </a> 
  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/numpy/numpy.png" alt="numpy" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://scipy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/ca48d4f3dcf844b0898b9e039b4d848dc7ec306d/topics/scipy/scipy.png" alt="scipy" width="40" height="40"/> </a>
+ <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="scipy" width="40" height="40"/> </a>
+ <a href="https://scipy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/ca48d4f3dcf844b0898b9e039b4d848dc7ec306d/topics/scipy/scipy.png" alt="scipy" width="40" height="40"/> </a>
+ <a href="https://scipy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/ca48d4f3dcf844b0898b9e039b4d848dc7ec306d/topics/scipy/scipy.png" alt="scipy" width="40" height="40"/> </a>
  
  
  
