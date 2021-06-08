@@ -81,6 +81,7 @@
 
 
 ## Certificates
+<br />
 
 - Machine Learning - Stanford|Online (https://www.coursera.org/account/accomplishments/verify/2RUNQ56UFM64)
 - Neural Networks and Deep Learning - DeepLearning.AI (https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q)
