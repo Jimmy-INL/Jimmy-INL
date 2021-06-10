@@ -129,11 +129,11 @@
 
 <br />
 
-- 🕯️ [Machine Learning - Stanford|Online][certificate0] **|**
-- 🕯️ [Neural Networks and Deep Learning - DeepLearning.AI][certificate1] **|**
-- 🕯️ [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - DeepLearning.AI][certificate2] **|**
-- 🕯️ [Structuring Machine Learning Projects - DeepLearning.AI][certificate3] **|**
-- 🕯️ [Convolution Neural Networks - DeepLearning.AI][certificate4] **|**
+- 🕯️ [Machine Learning - Stanford|Online][certificate0] **|** Intro to ML. (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance delimma)
+- 🕯️ [Neural Networks and Deep Learning - DeepLearning.AI][certificate1] **|** Build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture
+- 🕯️ [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - DeepLearning.AI][certificate2] **|** L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; optimization algorithms such as mini-batch gradient descent, Momentum, RMSprop and Adam, implement a neural network in TensorFlow.
+- 🕯️ [Structuring Machine Learning Projects - DeepLearning.AI][certificate3] **|** Diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
+- 🕯️ [Convolution Neural Networks - DeepLearning.AI][certificate4] **|** Build a convolutional neural network, including recent variations such as residual networks; apply convolutional networks to visual detection and recognition tasks; and use neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
 - 🕯️ [Sequence Models - DeepLearning.AI][certificate5] **|** Natural Language Processing, Long Short Term Memory (LSTM), Gated Recurrent Unit (GRU), Recurrent Neural Network, Attention Models
 - 🕯️ [Deep Learning Specialization - DeepLearning.AI][certificate6] **|** 
 
