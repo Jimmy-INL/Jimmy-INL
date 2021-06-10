@@ -66,6 +66,7 @@
  <a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+ <a href="https://jupyter.org/index.html" target="_blank"> <img src="https://jupyter.org/assets/main-logo.svg" alt="jupyter" width="40" height="40"/> </a> 
  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/numpy/numpy.png" alt="numpy" width="40" height="40"/> </a> 
  <a href="https://scipy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/ca48d4f3dcf844b0898b9e039b4d848dc7ec306d/topics/scipy/scipy.png" alt="scipy" width="40" height="40"/> </a>
  <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="100" height="40"/> </a>
