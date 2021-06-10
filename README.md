@@ -129,25 +129,22 @@
 
 <br />
 
-- 🕯️ [Machine Learning - Stanford|Online][certificate1] **|**
-- 🕯️ [Neural Networks and Deep Learning - DeepLearning.AI][certificate2] **|**
-- 🕯️ [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - DeepLearning.AI][certificate3] **|**
-- 🕯️ [Machine Learning - Stanford|Online][certificate] **|**
-- 🕯️ [Machine Learning - Stanford|Online][certificate] **|**
-- 🕯️ [Machine Learning - Stanford|Online][certificate] **|**
-- 🕯️ [Machine Learning - Stanford|Online][certificate] **|** 
-- [Machine Learning - Stanford|Online] (https://www.coursera.org/account/accomplishments/verify/2RUNQ56UFM64)
-- [![Neural Networks and Deep Learning - DeepLearning.AI] (https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q)
-- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - DeepLearning.AI (https://www.coursera.org/account/accomplishments/verify/E4X2ABP5QBX2)
+- 🕯️ [Machine Learning - Stanford|Online][certificate0] **|**
+- 🕯️ [Neural Networks and Deep Learning - DeepLearning.AI][certificate1] **|**
+- 🕯️ [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - DeepLearning.AI][certificate2] **|**
+- 🕯️ [Structuring Machine Learning Projects - DeepLearning.AI][certificate3] **|**
+- 🕯️ [Convolution Neural Networks - DeepLearning.AI][certificate4] **|**
+- 🕯️ [Sequence Models - DeepLearning.AI][certificate5] **|** Natural Language Processing, Long Short Term Memory (LSTM), Gated Recurrent Unit (GRU), Recurrent Neural Network, Attention Models
+- 🕯️ [Deep Learning Specialization - DeepLearning.AI][certificate6] **|** 
 
 
-[certificate1]: https://www.coursera.org/account/accomplishments/verify/2RUNQ56UFM64
-[certificate2]: https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q
-[certificate3]: https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q
-[certificate4]: https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q
-[certificate5]: https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q
-[certificate6]: https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q
-[certificate7]: https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q
+[certificate0]: https://www.coursera.org/account/accomplishments/verify/2RUNQ56UFM64
+[certificate1]: https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q
+[certificate2]: https://www.coursera.org/account/accomplishments/verify/4WMDYM2Z29HK
+[certificate3]: https://www.coursera.org/account/accomplishments/verify/NQ55RMG6W3GR
+[certificate4]: https://www.coursera.org/account/accomplishments/verify/4WMDYM2Z29HK
+[certificate5]: https://www.coursera.org/account/accomplishments/verify/PJL96Q34JSSW
+[certificate6]: https://www.coursera.org/account/accomplishments/specialization/2C2MAK9XKCRS
 
 
 ---
