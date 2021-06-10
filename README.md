@@ -129,13 +129,26 @@
 
 <br />
 
-- 🏡 [Machine Learning - Stanford|Online][certificate] **|** 
+- 🕯️ [Machine Learning - Stanford|Online][certificate1] **|**
+- 🕯️ [Neural Networks and Deep Learning - DeepLearning.AI][certificate2] **|**
+- 🕯️ [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - DeepLearning.AI][certificate3] **|**
+- 🕯️ [Machine Learning - Stanford|Online][certificate] **|**
+- 🕯️ [Machine Learning - Stanford|Online][certificate] **|**
+- 🕯️ [Machine Learning - Stanford|Online][certificate] **|**
+- 🕯️ [Machine Learning - Stanford|Online][certificate] **|** 
 - [Machine Learning - Stanford|Online] (https://www.coursera.org/account/accomplishments/verify/2RUNQ56UFM64)
 - [![Neural Networks and Deep Learning - DeepLearning.AI] (https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q)
 - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - DeepLearning.AI (https://www.coursera.org/account/accomplishments/verify/E4X2ABP5QBX2)
 
 
-[certificate]: https://www.coursera.org/account/accomplishments/verify/2RUNQ56UFM64
+[certificate1]: https://www.coursera.org/account/accomplishments/verify/2RUNQ56UFM64
+[certificate2]: https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q
+[certificate3]: https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q
+[certificate4]: https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q
+[certificate5]: https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q
+[certificate6]: https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q
+[certificate7]: https://www.coursera.org/account/accomplishments/verify/XJYPCDRNWR5Q
+
 
 ---
 <br />
