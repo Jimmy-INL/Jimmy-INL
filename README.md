@@ -53,7 +53,8 @@
 
 - **Optimization:** Gradient-Based Optimizers, conjugate gradient, Metaheuristic: Simulated Annealing, Genetic Algorithms.
 
-- 🖥️ **Programming Languages and Packages:** Bash scripting, MATLAB, Python: numpy, scipy, matplotlib, plotly, bokeh, seaborn, pandas, Jupyter notebook, ScikitLearn, Keras, Tensorflow. **-High Performance Computing (HPC)**
+- 🖥️ **Programming Languages and Packages:** Bash scripting, MATLAB, Python: numpy, scipy, matplotlib, plotly, bokeh, seaborn, pandas, Jupyter notebook, ScikitLearn, Keras, Tensorflow. 
+- ** High Performance Computing (HPC)**
 
 <!-- ## Tools: -->
 
