@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Mohammad Abdo - aka Jimmy, I am originally from Egypt 🇪🇬
 ## I am a Ph.D., a research scientist, and used to be an instructor.
+![Profile views](https://gpvc.arturio.dev/Jimmy-INL)
 ### My honest friends and superiors agreed that my biggest weekness is software development, so that's what I picked as a part of my career 😎 
 <br />
 <!-- **Jimmy-INL/Jimmy-INL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -164,7 +165,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jimmy-INL)  
 
-![Profile views](https://gpvc.arturio.dev/Jimmy-INL)
+
 
 
 <h3 align="left">Connect with me:</h3>
