@@ -45,7 +45,7 @@
 
 - 🤖👽 **Machine Learning:** regression, regularization, classification, clustering, collaborative filtering, support vector machines, naive Bayes, decision trees, random forests, anomaly detection, recommender systems, artificial data synthesis, ceiling analysis, Artificial Neural Networks (ANNs), Deep Neural Networks (DNNs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short Term Memory (LSTMs), Natural Language Processing (NLP), Transformer models, Attention Mechanisms.
 
-- **Reduced Order Modeling:** PCA, PPCA, KPCA, isomap, laplacian eigenmaps, LLE, HLLE, LTSA, surrogate modeling, Koopman theory, time-delayed embeddings, dynamic mode decomposition (DMD), Koopman theory, dynamical systems and control, data-driven (equation-free) modeling, sparse identification of dynamical systems (Sindy), compressive sensing for full map recovery from sparse measurements, time-series analysis, ARMA, ARIMA.
+- **Reduced Order Modeling:** PCA, PPCA, KPCA, isomap, laplacian eigenmaps, LLE, HLLE, LTSA, surrogate modeling, Koopman theory, time-delayed embeddings, dynamic mode decomposition (DMD), dynamical systems and control, data-driven (equation-free) modeling, sparse identification of dynamical systems (Sindy), compressive sensing for full map recovery from sparse measurements, time-series analysis, ARMA, ARIMA.
 
 - **Sensitivity Analysis (SA):** Sobol indices, morris screenning, PAWN, moment-independent SA.
 
